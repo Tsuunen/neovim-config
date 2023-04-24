@@ -1,2 +1,2 @@
-require("remi.remap")
 require("remi.set")
+require("remi.remap")
