@@ -73,4 +73,6 @@ use {
   }
 
   use("norcalli/nvim-colorizer.lua")
+
+  use 'simrat39/symbols-outline.nvim'
 end)
