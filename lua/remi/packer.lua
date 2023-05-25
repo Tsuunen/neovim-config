@@ -77,4 +77,6 @@ use {
   use 'simrat39/symbols-outline.nvim'
 
   use "lukas-reineke/indent-blankline.nvim"
+
+  use {'akinsho/bufferline.nvim', tag = "*", requires = 'nvim-tree/nvim-web-devicons'}
 end)
