@@ -81,4 +81,7 @@ use {
   use {'akinsho/bufferline.nvim', tag = "*", requires = 'nvim-tree/nvim-web-devicons'}
 
   use("folke/trouble.nvim")
+
+  use 'navarasu/onedark.nvim'
+
 end)
